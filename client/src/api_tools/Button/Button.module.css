@@ -1,0 +1,14 @@
+.btn {
+	width: 8rem;
+	height: 1.8rem;
+	border: 1px solid #1d3986;
+	border-radius: 4px;
+	background-color: #67b4e0;
+  cursor: pointer;
+}
+.btn:hover {
+	border: 1px solid #0e063b;
+	border-radius: 4px;
+	background-color: #5e7dd3;
+	color: beige;
+}

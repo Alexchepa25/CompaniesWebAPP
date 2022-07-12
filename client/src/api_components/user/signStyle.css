@@ -1,0 +1,14 @@
+.sign { 
+	display: flex;
+	flex-direction: column;	
+  align-items: center;
+}
+
+.error {
+	color: red;
+}
+
+.upBtn {
+	display: flex;
+	justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.nav {
+  width: 100vw;
+  height: 10vh;
+  background-color: #ccd2f7;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;  
+  border-bottom: 2px solid #1d3986;
+}
+.link {
+  text-decoration: none;
+  color: #090b27;
+}
+.btn {
+  margin-left: 1rem;
+}

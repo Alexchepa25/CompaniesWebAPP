@@ -1,0 +1,39 @@
+.company { 
+	display: flex;
+	flex-direction: column;	
+  align-items: center;
+}
+.center {
+	text-align: center;
+}
+.table {
+	width: 100%;
+	height: 20%;
+	box-sizing: border-box;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+.row {
+	width: 15%;
+	height: 5vh;
+	padding: 5px;
+	background-color: beige;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.tr {
+	border-top: 2px solid black;
+}
+.btnTable {
+	width: 100%;
+}
+.btnTable:hover {
+	cursor: pointer;
+	border: 1px solid #1d3986;
+	border-radius: 4px;
+	background-color: #67b4e0;
+	color: beige;
+}
+.error {
+	color: red;
+}
